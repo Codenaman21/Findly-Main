@@ -1,0 +1,1324 @@
+{
+    "Web Developer": {
+        "core": [
+            "html",
+            "css",
+            "javascript",
+            "responsive design",
+            "sass",
+            "typescript"
+        ],
+        "frameworks": [
+            "angular",
+            "react",
+            "vue.js",
+            "bootstrap"
+        ],
+        "backend": [
+            "node.js",
+            "php",
+            "python",
+            "scala"
+        ],
+        "database": [
+            "sql",
+            "postgresql",
+            "mongodb",
+            "redis"
+        ],
+        "tools": [
+            "git",
+            "docker",
+            "webpack",
+            "jenkins",
+            "maven"
+        ],
+        "other": [
+            "seo",
+            "web accessibility",
+            "figma",
+            "illustrator"
+        ],
+        "advanced": [
+            "graphql",
+            "kubernetes",
+            "rest api",
+            "aws",
+            "openshift"
+        ]
+    },
+    "Software Developer": {
+        "core": [
+            "java",
+            "python",
+            "c++",
+            "c#",
+            "javascript",
+            "algorithms",
+            "data structures",
+            "object-oriented programming"
+        ],
+        "frameworks": [
+            "spring framework",
+            "react",
+            "vue.js",
+            ".net"
+        ],
+        "backend": [
+            "spring boot",
+            "node.js",
+            "microservices"
+        ],
+        "database": [
+            "sql",
+            "oracle database",
+            "postgresql",
+            "redis"
+        ],
+        "tools": [
+            "git",
+            "jenkins",
+            "docker",
+            "kubernetes",
+            "maven",
+            "junit"
+        ],
+        "other": [
+            "agile",
+            "unit testing",
+            "debugging",
+            "linux"
+        ],
+        "advanced": [
+            "graphql",
+            "rest api",
+            "tensorflow",
+            "pytorch",
+            "ci/cd"
+        ]
+    },
+    "Applications Programmer": {
+        "core": [
+            "java",
+            "python",
+            "javascript",
+            "c#",
+            "go",
+            "swift",
+            "algorithms",
+            "data structures"
+        ],
+        "frameworks": [
+            "google angular",
+            "react",
+            "spring framework"
+        ],
+        "backend": [
+            "spring boot",
+            "php",
+            "scala"
+        ],
+        "database": [
+            "sql",
+            "mongodb",
+            "ibm db2",
+            "postgresql"
+        ],
+        "tools": [
+            "git",
+            "github",
+            "maven",
+            "junit",
+            "eclipse",
+            "visual studio"
+        ],
+        "other": [
+            "agile",
+            "scrum",
+            "unit testing",
+            "debugging"
+        ],
+        "advanced": [
+            "rest api",
+            "openshift",
+            "puppet",
+            "elasticsearch"
+        ]
+    },
+    "Database Designer": {
+        "core": [
+            "sql",
+            "database design",
+            "data modeling",
+            "database security",
+            "indexing"
+        ],
+        "frameworks": [
+            "spring framework",
+            "google angular"
+        ],
+        "backend": [
+            "spring boot",
+            "pl/sql",
+            "transact-sql",
+            "stored procedures"
+        ],
+        "database": [
+            "oracle",
+            "mysql",
+            "postgresql",
+            "mongodb",
+            "redis",
+            "nosql",
+            "elasticsearch"
+        ],
+        "tools": [
+            "oracle sql developer",
+            "github",
+            "maven",
+            "puppet",
+            "red hat ansible engine"
+        ],
+        "other": [
+            "etl",
+            "data warehousing",
+            "backup and recovery",
+            "query optimization"
+        ],
+        "advanced": [
+            "oracle real application cluster rac",
+            "microsoft azure data factory",
+            "openshift"
+        ]
+    },
+    "Systems Administrator": {
+        "core": [
+            "linux",
+            "rhel",
+            "unix shell",
+            "networking",
+            "dns",
+            "dhcp",
+            "firewalls"
+        ],
+        "frameworks": [
+            "django"
+        ],
+        "backend": [
+            "bash scripting",
+            "powershell",
+            "perl",
+            "node.js"
+        ],
+        "database": [
+            "sql",
+            "elasticsearch",
+            "pl/sql"
+        ],
+        "tools": [
+            "ansible",
+            "puppet",
+            "terraform",
+            "docker",
+            "kubernetes",
+            "git",
+            "vmware"
+        ],
+        "other": [
+            "active directory",
+            "backup and recovery",
+            "nagios",
+            "wireshark"
+        ],
+        "advanced": [
+            "aws",
+            "azure",
+            "openshift",
+            "servicenow"
+        ]
+    },
+    "Network Professional": {
+        "core": [
+            "tcp/ip",
+            "routing",
+            "switching",
+            "lan/wan",
+            "network security",
+            "firewalls",
+            "dns"
+        ],
+        "frameworks": [
+            "spring framework",
+            "google angular"
+        ],
+        "backend": [
+            "python",
+            "scala",
+            "swift"
+        ],
+        "database": [
+            "pl/sql",
+            "transact-sql",
+            "amazon redshift"
+        ],
+        "tools": [
+            "wireshark",
+            "puppet",
+            "maven",
+            "junit",
+            "cisco"
+        ],
+        "other": [
+            "network monitoring",
+            "load balancing",
+            "vpn",
+            "wireless networking"
+        ],
+        "advanced": [
+            "openshift",
+            "load balancing",
+            "vrrp",
+            "sip"
+        ]
+    },
+    "Security Analyst": {
+        "core": [
+            "cybersecurity",
+            "network security",
+            "cryptography",
+            "firewalls",
+            "linux",
+            "penetration testing"
+        ],
+        "frameworks": [
+            "spring framework",
+            "google angular"
+        ],
+        "backend": [
+            "python",
+            "perl",
+            "go",
+            "php"
+        ],
+        "database": [
+            "pl/sql",
+            "sql server integration",
+            "elasticsearch"
+        ],
+        "tools": [
+            "wireshark",
+            "git",
+            "github",
+            "puppet",
+            "portswigger burp suite"
+        ],
+        "other": [
+            "risk assessment",
+            "incident response",
+            "compliance",
+            "vulnerability assessment"
+        ],
+        "advanced": [
+            "siem",
+            "ids",
+            "ips",
+            "malware analysis"
+        ]
+    },
+    "Data Scientist": {
+        "core": [
+            "python",
+            "statistics",
+            "data visualization",
+            "mathematics"
+        ],
+        "frameworks": [
+            "scikit-learn",
+            "tensorflow",
+            "pytorch"
+        ],
+        "backend": [
+            "scala",
+            "ruby",
+            "perl"
+        ],
+        "database": [
+            "sql",
+            "mongodb",
+            "hive",
+            "amazon redshift"
+        ],
+        "tools": [
+            "jupyter",
+            "github",
+            "spark",
+            "pandas",
+            "numpy"
+        ],
+        "other": [
+            "a/b testing",
+            "feature engineering",
+            "nlp",
+            "big data"
+        ],
+        "advanced": [
+            "machine learning",
+            "deep learning"
+        ]
+    },
+    "Systems Analyst": {
+        "core": [
+            "system design",
+            "requirements analysis",
+            "business analysis",
+            "uml",
+            "data flow diagrams"
+        ],
+        "frameworks": [
+            "react",
+            "spring framework",
+            "google angular"
+        ],
+        "backend": [
+            "spring boot",
+            "j2ee",
+            "pl/sql"
+        ],
+        "database": [
+            "sql",
+            "oracle database",
+            "ibm db2"
+        ],
+        "tools": [
+            "git",
+            "github",
+            "maven",
+            "junit",
+            "erwin",
+            "servicenow"
+        ],
+        "other": [
+            "agile",
+            "scrum",
+            "documentation",
+            "testing"
+        ],
+        "advanced": [
+            "openshift",
+            "sap erp",
+            "business intelligence"
+        ]
+    },
+    "Graphic Designer": {
+        "core": [
+            "typography",
+            "color theory",
+            "layout design",
+            "branding",
+            "fine arts"
+        ],
+        "frameworks": [],
+        "backend": [
+            "php"
+        ],
+        "database": [
+            "microsoft access"
+        ],
+        "tools": [
+            "photoshop",
+            "illustrator",
+            "indesign",
+            "figma",
+            "adobe creative suite"
+        ],
+        "other": [
+            "ui design",
+            "vector graphics",
+            "print design",
+            "wordpress"
+        ],
+        "advanced": [
+            "ui design"
+        ]
+    },
+    "Multimedia Designer": {
+        "core": [
+            "animation",
+            "motion graphics",
+            "storyboarding",
+            "3d modeling",
+            "video editing"
+        ],
+        "frameworks": [],
+        "backend": [
+            "php"
+        ],
+        "database": [
+            "xml user interface xui"
+        ],
+        "tools": [
+            "after effects",
+            "premiere pro",
+            "photoshop",
+            "illustrator",
+            "figma",
+            "unity technologies unity"
+        ],
+        "other": [
+            "ui/ux design",
+            "sales and marketing"
+        ],
+        "advanced": [
+            "3d modeling",
+            "pixar renderman studio"
+        ]
+    },
+    "Photographer": {
+        "core": [
+            "photography",
+            "camera operation",
+            "composition",
+            "lighting",
+            "fine arts"
+        ],
+        "frameworks": [],
+        "backend": [],
+        "database": [
+            "microsoft access"
+        ],
+        "tools": [
+            "photoshop",
+            "lightroom",
+            "illustrator",
+            "apple final cut pro"
+        ],
+        "other": [
+            "photo editing",
+            "color correction",
+            "portrait photography",
+            "product photography"
+        ],
+        "advanced": [
+            "tave studio manager"
+        ]
+    },
+    "Accountant": {
+        "core": [
+            "accounting",
+            "auditing",
+            "gaap",
+            "financial statements",
+            "budgeting"
+        ],
+        "frameworks": [],
+        "backend": [
+            "payroll"
+        ],
+        "database": [
+            "sql",
+            "oracle database",
+            "microsoft access"
+        ],
+        "tools": [
+            "quickbooks",
+            "sap",
+            "tableau",
+            "sage 50 accounting",
+            "intuit turbotax"
+        ],
+        "other": [
+            "bookkeeping",
+            "accounts payable",
+            "accounts receivable",
+            "tax preparation"
+        ],
+        "advanced": [
+            "oracle e-business suite financials",
+            "sap concur",
+            "workday software"
+        ]
+    },
+    "Financial Analyst": {
+        "core": [
+            "financial modeling",
+            "financial reporting",
+            "valuation",
+            "forecasting",
+            "data analysis"
+        ],
+        "frameworks": [],
+        "backend": [
+            "python",
+            "matlab"
+        ],
+        "database": [
+            "sql",
+            "oracle database",
+            "amazon redshift"
+        ],
+        "tools": [
+            "bloomberg terminal",
+            "tableau",
+            "microsoft power bi",
+            "quickbooks",
+            "sap"
+        ],
+        "other": [
+            "investment analysis",
+            "risk analysis",
+            "accounting software"
+        ],
+        "advanced": [
+            "oracle hyperion financial management",
+            "apache pig"
+        ]
+    },
+    "Bookkeeper": {
+        "core": [
+            "bookkeeping",
+            "bank reconciliation",
+            "financial records",
+            "payroll",
+            "data entry"
+        ],
+        "frameworks": [],
+        "backend": [
+            "invoicing"
+        ],
+        "database": [
+            "oracle database",
+            "microsoft access"
+        ],
+        "tools": [
+            "quickbooks",
+            "sage 50 accounting",
+            "sap",
+            "intuit quickbooks"
+        ],
+        "other": [
+            "accounts payable",
+            "accounts receivable",
+            "tax software",
+            "compliance software"
+        ],
+        "advanced": [
+            "sap concur",
+            "yardi software"
+        ]
+    },
+    "Marketing Professional": {
+        "core": [
+            "digital marketing",
+            "market research",
+            "branding",
+            "content marketing",
+            "copywriting"
+        ],
+        "frameworks": [],
+        "backend": [
+            "javascript",
+            "php"
+        ],
+        "database": [
+            "sql",
+            "mysql",
+            "hive",
+            "amazon redshift"
+        ],
+        "tools": [
+            "hubspot",
+            "salesforce",
+            "google analytics",
+            "canva",
+            "tableau",
+            "hootsuite"
+        ],
+        "other": [
+            "seo",
+            "sem",
+            "ppc advertising",
+            "social media",
+            "email marketing"
+        ],
+        "advanced": [
+            "oracle eloqua",
+            "apache pig",
+            "qlik tech qlikview"
+        ]
+    },
+    "Project Manager": {
+        "core": [
+            "project management",
+            "resource planning",
+            "scheduling",
+            "risk management",
+            "budgeting"
+        ],
+        "frameworks": [],
+        "backend": [],
+        "database": [],
+        "tools": [
+            "jira",
+            "ms project",
+            "asana"
+        ],
+        "other": [
+            "agile",
+            "scrum",
+            "stakeholder management",
+            "reporting"
+        ],
+        "advanced": [
+            "strategic planning"
+        ]
+    },
+    "Public Relations Professional": {
+        "core": [
+            "public relations",
+            "media relations",
+            "press releases",
+            "crisis communication",
+            "copywriting"
+        ],
+        "frameworks": [],
+        "backend": [
+            "javascript"
+        ],
+        "database": [],
+        "tools": [
+            "hubspot",
+            "cision cisionpoint",
+            "canva",
+            "illustrator",
+            "wordpress"
+        ],
+        "other": [
+            "content creation",
+            "event planning",
+            "brand management",
+            "social media"
+        ],
+        "advanced": [
+            "oracle eloqua",
+            "drupal"
+        ]
+    },
+    "Author": {
+        "core": [
+            "storytelling",
+            "creative writing",
+            "editing",
+            "proofreading",
+            "grammar"
+        ],
+        "frameworks": [],
+        "backend": [],
+        "database": [],
+        "tools": [
+            "wordpress",
+            "asana",
+            "campaign monitor",
+            "illustrator",
+            "photoshop"
+        ],
+        "other": [
+            "blogging",
+            "seo writing",
+            "content strategy",
+            "publishing",
+            "research"
+        ],
+        "advanced": [
+            "content strategy"
+        ]
+    },
+    "Journalist": {
+        "core": [
+            "journalism",
+            "reporting",
+            "interviewing",
+            "fact-checking",
+            "news writing"
+        ],
+        "frameworks": [],
+        "backend": [],
+        "database": [
+            "microsoft sql server"
+        ],
+        "tools": [
+            "apple final cut pro",
+            "grass valley edius",
+            "wordpress",
+            "microsoft access"
+        ],
+        "other": [
+            "photography",
+            "video production",
+            "media ethics",
+            "social media"
+        ],
+        "advanced": [
+            "nielsen arianna",
+            "spss"
+        ]
+    },
+    "Secondary Education Teacher": {
+        "core": [
+            "teaching",
+            "lesson planning",
+            "classroom management",
+            "curriculum development",
+            "assessment"
+        ],
+        "frameworks": [],
+        "backend": [],
+        "database": [],
+        "tools": [
+            "moodle",
+            "desmos",
+            "instructional software"
+        ],
+        "other": [
+            "student engagement",
+            "differentiated instruction",
+            "psychology",
+            "educational technology"
+        ],
+        "advanced": [
+            "educational technology"
+        ]
+    },
+    "Teaching Professional": {
+        "core": [
+            "teaching",
+            "curriculum design",
+            "assessment",
+            "tutoring"
+        ],
+        "frameworks": [],
+        "backend": [],
+        "database": [],
+        "tools": [],
+        "other": [
+            "student mentoring",
+            "educational psychology",
+            "presentation"
+        ],
+        "advanced": [
+            "curriculum design"
+        ]
+    },
+    "Nursing Professional": {
+        "core": [
+            "patient care",
+            "clinical assessment",
+            "medication administration",
+            "vital signs monitoring",
+            "wound care"
+        ],
+        "frameworks": [],
+        "backend": [],
+        "database": [
+            "database software"
+        ],
+        "tools": [
+            "epic ehr",
+            "meditech software",
+            "electronic health records",
+            "filemaker pro"
+        ],
+        "other": [
+            "patient education",
+            "infection control",
+            "cpr",
+            "iv therapy",
+            "emergency care"
+        ],
+        "advanced": [
+            "medicine and dentistry",
+            "biology"
+        ]
+    },
+    "Health Professional": {
+        "core": [
+            "patient care",
+            "clinical assessment",
+            "medical terminology",
+            "health education"
+        ],
+        "frameworks": [],
+        "backend": [],
+        "database": [],
+        "tools": [
+            "medical records"
+        ],
+        "other": [
+            "first aid",
+            "emergency response",
+            "infection control"
+        ],
+        "advanced": [
+            "clinical assessment"
+        ]
+    },
+    "Chef": {
+        "core": [
+            "cooking",
+            "recipe development",
+            "menu planning",
+            "food presentation",
+            "food safety"
+        ],
+        "frameworks": [],
+        "backend": [
+            "inventory management"
+        ],
+        "database": [],
+        "tools": [
+            "culinary software services cheftec",
+            "costguard",
+            "reserve interactive"
+        ],
+        "other": [
+            "kitchen management",
+            "cost control",
+            "nutrition",
+            "team leadership"
+        ],
+        "advanced": [
+            "nutrition",
+            "economics and accounting"
+        ]
+    },
+    "Cook": {
+        "core": [
+            "cooking",
+            "food preparation",
+            "food safety",
+            "knife skills",
+            "recipe following"
+        ],
+        "frameworks": [],
+        "backend": [],
+        "database": [],
+        "tools": [
+            "kitchen equipment operation"
+        ],
+        "other": [
+            "baking",
+            "grilling",
+            "food production",
+            "compliance software"
+        ],
+        "advanced": [
+            "food production"
+        ]
+    },
+    "Electrician": {
+        "core": [
+            "electrical wiring",
+            "circuit testing",
+            "grounding",
+            "blueprint reading",
+            "electrical code compliance"
+        ],
+        "frameworks": [],
+        "backend": [
+            "plc programming"
+        ],
+        "database": [],
+        "tools": [
+            "power tools",
+            "conduit bending",
+            "multimeter",
+            "electrosoft flashworks"
+        ],
+        "other": [
+            "safety protocols",
+            "panel installation",
+            "building and construction"
+        ],
+        "advanced": [
+            "plc programming",
+            "softempire electrical calculations"
+        ]
+    },
+    "Plumber": {
+        "core": [
+            "plumbing",
+            "pipe fitting",
+            "soldering",
+            "leak detection",
+            "drainage systems"
+        ],
+        "frameworks": [],
+        "backend": [],
+        "database": [],
+        "tools": [
+            "fastest fastpipe",
+            "viziflow",
+            "quicken",
+            "intuit quickbooks"
+        ],
+        "other": [
+            "blueprint reading",
+            "plumbing code compliance",
+            "water heater installation",
+            "safety protocols"
+        ],
+        "advanced": [
+            "coade caesar ii",
+            "watter hammer software hytran"
+        ]
+    },
+    "Carpenter": {
+        "core": [
+            "carpentry",
+            "framing",
+            "joinery",
+            "cabinet making",
+            "blueprint reading"
+        ],
+        "frameworks": [],
+        "backend": [],
+        "database": [],
+        "tools": [
+            "power tools",
+            "estimating software",
+            "intuit quickbooks"
+        ],
+        "other": [
+            "woodworking",
+            "finishing",
+            "measurement",
+            "safety protocols"
+        ],
+        "advanced": [
+            "virtualboss"
+        ]
+    },
+    "Welder": {
+        "core": [
+            "arc welding",
+            "mig welding",
+            "tig welding",
+            "metal fabrication",
+            "blueprint reading"
+        ],
+        "frameworks": [],
+        "backend": [],
+        "database": [],
+        "tools": [
+            "cutting",
+            "grinding",
+            "fred's tip cartridge picker"
+        ],
+        "other": [
+            "welding inspection",
+            "brazing",
+            "safety protocols"
+        ],
+        "advanced": [
+            "welding inspection"
+        ]
+    },
+    "Tailor": {
+        "core": [
+            "sewing",
+            "pattern making",
+            "alterations",
+            "garment construction",
+            "fitting"
+        ],
+        "frameworks": [],
+        "backend": [],
+        "database": [],
+        "tools": [
+            "sewing machine operation",
+            "fabric cutting"
+        ],
+        "other": [
+            "measurements",
+            "hand stitching",
+            "textile knowledge",
+            "accounting software"
+        ],
+        "advanced": [
+            "pattern making"
+        ]
+    },
+    "Electronics Mechanic": {
+        "core": [
+            "circuit troubleshooting",
+            "component testing",
+            "schematic reading",
+            "soldering",
+            "diagnostics"
+        ],
+        "frameworks": [],
+        "backend": [
+            "firmware updating"
+        ],
+        "database": [],
+        "tools": [
+            "multimeter use",
+            "oscilloscope operation",
+            "pcb repair"
+        ],
+        "other": [
+            "electronic assembly",
+            "signal analysis"
+        ],
+        "advanced": [
+            "signal analysis"
+        ]
+    },
+    "Computer Hardware Technician": {
+        "core": [
+            "hardware troubleshooting",
+            "component replacement",
+            "diagnostics",
+            "operating system installation"
+        ],
+        "frameworks": [],
+        "backend": [
+            "javascript"
+        ],
+        "database": [
+            "microsoft access"
+        ],
+        "tools": [
+            "servicenow",
+            "soldering",
+            "microsoft windows"
+        ],
+        "other": [
+            "preventive maintenance",
+            "data recovery",
+            "customer service",
+            "networking basics"
+        ],
+        "advanced": [
+            "data recovery"
+        ]
+    },
+    "Air Conditioning Mechanic": {
+        "core": [
+            "hvac systems",
+            "refrigerant handling",
+            "electrical troubleshooting",
+            "system maintenance",
+            "compressor repair"
+        ],
+        "frameworks": [],
+        "backend": [],
+        "database": [],
+        "tools": [
+            "autodesk autocad",
+            "honeywell webs-n4",
+            "johnson controls metasys",
+            "managerplus"
+        ],
+        "other": [
+            "ductwork",
+            "thermostat installation",
+            "brazing",
+            "safety protocols"
+        ],
+        "advanced": [
+            "hvac systems",
+            "epa certification"
+        ]
+    },
+    "Driver": {
+        "core": [
+            "driving",
+            "navigation",
+            "transportation",
+            "safety compliance",
+            "defensive driving"
+        ],
+        "frameworks": [],
+        "backend": [],
+        "database": [],
+        "tools": [
+            "route planning",
+            "load management",
+            "fog line software truckn pro"
+        ],
+        "other": [
+            "customer service",
+            "vehicle maintenance",
+            "law and government"
+        ],
+        "advanced": [
+            "logistics planning"
+        ]
+    },
+    "Field Crop Grower": {
+        "core": [
+            "crop cultivation",
+            "soil management",
+            "irrigation",
+            "farming",
+            "harvest techniques"
+        ],
+        "frameworks": [],
+        "backend": [],
+        "database": [],
+        "tools": [
+            "agricultural equipment operation",
+            "bcl landview systems wincrop"
+        ],
+        "other": [
+            "pest control",
+            "fertilization",
+            "weather monitoring"
+        ],
+        "advanced": [
+            "soil management"
+        ]
+    },
+    "Gardener": {
+        "core": [
+            "gardening",
+            "planting",
+            "pruning",
+            "soil preparation",
+            "plant identification"
+        ],
+        "frameworks": [],
+        "backend": [],
+        "database": [],
+        "tools": [
+            "irrigation",
+            "mowers",
+            "chemistry"
+        ],
+        "other": [
+            "landscaping",
+            "lawn maintenance",
+            "pest management",
+            "composting"
+        ],
+        "advanced": [
+            "landscaping"
+        ]
+    },
+    "Shop Sales Assistant": {
+        "core": [
+            "sales",
+            "customer service",
+            "cash handling",
+            "product knowledge",
+            "point of sale"
+        ],
+        "frameworks": [],
+        "backend": [],
+        "database": [
+            "microsoft access"
+        ],
+        "tools": [
+            "plexis software plexis pos",
+            "intuit quickbooks",
+            "tokenworks magnetic card reader"
+        ],
+        "other": [
+            "inventory management",
+            "merchandising",
+            "upselling",
+            "stock management"
+        ],
+        "advanced": [
+            "sales and marketing"
+        ]
+    },
+    "Contact Centre Agent": {
+        "core": [
+            "communication",
+            "customer service",
+            "phone etiquette",
+            "complaint handling",
+            "typing"
+        ],
+        "frameworks": [],
+        "backend": [],
+        "database": [
+            "oracle database"
+        ],
+        "tools": [
+            "salesforce",
+            "crm software",
+            "estara softphone",
+            "parature erealtime"
+        ],
+        "other": [
+            "data entry",
+            "multitasking",
+            "problem solving",
+            "documentation"
+        ],
+        "advanced": [
+            "salesforce.com salesforce crm"
+        ]
+    },
+    "Data Entry Clerk": {
+        "core": [
+            "data entry",
+            "typing",
+            "data verification",
+            "attention to detail",
+            "record keeping"
+        ],
+        "frameworks": [],
+        "backend": [],
+        "database": [
+            "microsoft access",
+            "database management",
+            "ibm informix"
+        ],
+        "tools": [
+            "excel",
+            "filemaker pro",
+            "office software"
+        ],
+        "other": [
+            "filing",
+            "accounting software",
+            "law and government"
+        ],
+        "advanced": [
+            "microsoft dynamics gp"
+        ]
+    },
+    "Managing Director": {
+        "core": [
+            "leadership",
+            "strategic planning",
+            "business development",
+            "decision making",
+            "financial management"
+        ],
+        "frameworks": [],
+        "backend": [],
+        "database": [
+            "oracle database",
+            "sap"
+        ],
+        "tools": [
+            "human resource information system",
+            "halogen epraisal",
+            "databox"
+        ],
+        "other": [
+            "stakeholder management",
+            "team management",
+            "organizational development",
+            "budgeting"
+        ],
+        "advanced": [
+            "oracle e-business suite",
+            "strategic planning"
+        ]
+    }
+}

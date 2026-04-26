@@ -1,0 +1,61 @@
+{
+  "python": [
+    {"platform": "Fiverr", "gig_type": "Python scripting & automation", "avg_rate": "$20-50/hr", "url": "https://www.fiverr.com/categories/programming-tech/python"},
+    {"platform": "Upwork", "gig_type": "Backend development", "avg_rate": "$30-60/hr", "url": "https://www.upwork.com/freelance-jobs/python/"},
+    {"platform": "Freelancer", "gig_type": "Data processing scripts", "avg_rate": "$15-40/hr", "url": "https://www.freelancer.com/jobs/python/"}
+  ],
+  "javascript": [
+    {"platform": "Fiverr", "gig_type": "Web app development", "avg_rate": "$25-55/hr", "url": "https://www.fiverr.com/categories/programming-tech/javascript"},
+    {"platform": "Upwork", "gig_type": "Frontend/fullstack projects", "avg_rate": "$30-70/hr", "url": "https://www.upwork.com/freelance-jobs/javascript/"},
+    {"platform": "Toptal", "gig_type": "Premium JS contracts", "avg_rate": "$60-120/hr", "url": "https://www.toptal.com/javascript"}
+  ],
+  "react": [
+    {"platform": "Upwork", "gig_type": "React UI development", "avg_rate": "$35-75/hr", "url": "https://www.upwork.com/freelance-jobs/react-js/"},
+    {"platform": "Fiverr", "gig_type": "React component building", "avg_rate": "$25-50/hr", "url": "https://www.fiverr.com/categories/programming-tech/react"},
+    {"platform": "Gun.io", "gig_type": "React app contracts", "avg_rate": "$50-100/hr", "url": "https://gun.io"}
+  ],
+  "web development": [
+    {"platform": "Fiverr", "gig_type": "Website creation", "avg_rate": "$20-60/hr", "url": "https://www.fiverr.com/categories/programming-tech/web-development"},
+    {"platform": "Upwork", "gig_type": "Full website builds", "avg_rate": "$25-65/hr", "url": "https://www.upwork.com/freelance-jobs/web-development/"}
+  ],
+  "graphic design": [
+    {"platform": "Fiverr", "gig_type": "Logo & brand design", "avg_rate": "$15-50/hr", "url": "https://www.fiverr.com/categories/graphics-design"},
+    {"platform": "99designs", "gig_type": "Design contests", "avg_rate": "$200-1000/project", "url": "https://99designs.com"},
+    {"platform": "Dribbble", "gig_type": "Freelance design work", "avg_rate": "$30-80/hr", "url": "https://dribbble.com/freelance-jobs"}
+  ],
+  "data science": [
+    {"platform": "Upwork", "gig_type": "Data analysis projects", "avg_rate": "$40-90/hr", "url": "https://www.upwork.com/freelance-jobs/data-science/"},
+    {"platform": "Kaggle", "gig_type": "Competition winnings & consulting", "avg_rate": "Varies", "url": "https://www.kaggle.com"},
+    {"platform": "Toptal", "gig_type": "Premium data contracts", "avg_rate": "$60-150/hr", "url": "https://www.toptal.com/data-science"}
+  ],
+  "content writing": [
+    {"platform": "Fiverr", "gig_type": "Blog posts & articles", "avg_rate": "$10-40/hr", "url": "https://www.fiverr.com/categories/writing-translation"},
+    {"platform": "Contently", "gig_type": "Brand content creation", "avg_rate": "$25-75/hr", "url": "https://contently.com"},
+    {"platform": "Medium", "gig_type": "Partner program earnings", "avg_rate": "Per-read revenue", "url": "https://medium.com/creators"}
+  ],
+  "digital marketing": [
+    {"platform": "Upwork", "gig_type": "Social media management", "avg_rate": "$20-50/hr", "url": "https://www.upwork.com/freelance-jobs/digital-marketing/"},
+    {"platform": "Fiverr", "gig_type": "SEO & ad campaigns", "avg_rate": "$15-45/hr", "url": "https://www.fiverr.com/categories/online-marketing"}
+  ],
+  "video editing": [
+    {"platform": "Fiverr", "gig_type": "YouTube video editing", "avg_rate": "$15-50/hr", "url": "https://www.fiverr.com/categories/video-animation/video-editing"},
+    {"platform": "Upwork", "gig_type": "Professional video production", "avg_rate": "$25-60/hr", "url": "https://www.upwork.com/freelance-jobs/video-editing/"}
+  ],
+  "photography": [
+    {"platform": "Shutterstock", "gig_type": "Stock photo sales", "avg_rate": "$0.25-5/download", "url": "https://submit.shutterstock.com"},
+    {"platform": "Fiverr", "gig_type": "Photo editing & retouching", "avg_rate": "$15-40/hr", "url": "https://www.fiverr.com/categories/photography"}
+  ],
+  "teaching": [
+    {"platform": "Preply", "gig_type": "Online tutoring", "avg_rate": "$10-30/hr", "url": "https://preply.com/en/teach"},
+    {"platform": "Udemy", "gig_type": "Course creation", "avg_rate": "Revenue share", "url": "https://www.udemy.com/teaching/"}
+  ],
+  "cooking": [
+    {"platform": "TaskRabbit", "gig_type": "Personal chef services", "avg_rate": "$20-50/hr", "url": "https://www.taskrabbit.com"},
+    {"platform": "Fiverr", "gig_type": "Recipe development & meal planning", "avg_rate": "$15-35/hr", "url": "https://www.fiverr.com"}
+  ],
+  "default": [
+    {"platform": "Fiverr", "gig_type": "Offer your skills as micro-services", "avg_rate": "Varies", "url": "https://www.fiverr.com"},
+    {"platform": "Upwork", "gig_type": "Find freelance contracts", "avg_rate": "Varies", "url": "https://www.upwork.com"},
+    {"platform": "TaskRabbit", "gig_type": "Local task-based work", "avg_rate": "$15-40/hr", "url": "https://www.taskrabbit.com"}
+  ]
+}

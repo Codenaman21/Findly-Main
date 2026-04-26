@@ -1,0 +1,42 @@
+{
+  "tech": [
+    {"name": "TechServe Solutions", "type": "IT Services", "distance": "1.2 km", "contact": "+91-9876543210", "strategy": "Call ahead and ask for the hiring manager. Mention your Python/web development skills."},
+    {"name": "CodeCraft Studios", "type": "Software Agency", "distance": "2.5 km", "contact": "+91-9876543211", "strategy": "Visit with a printed portfolio. Ask if they need freelance or intern developers."},
+    {"name": "Digital Nexus", "type": "Digital Agency", "distance": "3.8 km", "contact": "+91-9876543212", "strategy": "Email your resume first, then follow up with a walk-in visit within 2 days."}
+  ],
+  "design": [
+    {"name": "PixelPerfect Designs", "type": "Design Studio", "distance": "0.8 km", "contact": "+91-9876543213", "strategy": "Bring a portfolio (physical or tablet). Ask about ongoing projects needing design support."},
+    {"name": "BrandWorks Agency", "type": "Marketing/Design", "distance": "2.1 km", "contact": "+91-9876543214", "strategy": "Call and request a 10-minute meeting. Showcase 3-5 best design samples."},
+    {"name": "Creative Corner Print Shop", "type": "Print & Design", "distance": "1.5 km", "contact": "+91-9876543215", "strategy": "Walk in during morning hours. These shops often need part-time designers."}
+  ],
+  "food": [
+    {"name": "Spice Garden Restaurant", "type": "Restaurant", "distance": "0.5 km", "contact": "+91-9876543216", "strategy": "Visit between 2-4 PM (off-peak). Ask for the manager and inquire about kitchen positions."},
+    {"name": "Daily Bites Cafe", "type": "Cafe & Bakery", "distance": "1.3 km", "contact": "+91-9876543217", "strategy": "Morning visits work best. Mention any baking or cooking certifications."},
+    {"name": "CloudKitchen Hub", "type": "Cloud Kitchen", "distance": "2.0 km", "contact": "+91-9876543218", "strategy": "Call first. Cloud kitchens frequently need part-time cooks and delivery coordinators."}
+  ],
+  "trades": [
+    {"name": "BuildRight Construction", "type": "Construction", "distance": "3.2 km", "contact": "+91-9876543219", "strategy": "Visit the site office early morning (7-8 AM). Bring any trade certifications."},
+    {"name": "QuickFix Electricals", "type": "Electrical Services", "distance": "1.7 km", "contact": "+91-9876543220", "strategy": "Call and ask if they're hiring apprentices or helpers. Visit with your tool kit."},
+    {"name": "Metro Plumbing Services", "type": "Plumbing", "distance": "2.4 km", "contact": "+91-9876543221", "strategy": "Walk in and ask for the supervisor. Emphasize any prior experience with residential work."}
+  ],
+  "education": [
+    {"name": "BrightMinds Coaching Centre", "type": "Tutoring Center", "distance": "0.9 km", "contact": "+91-9876543222", "strategy": "Visit with your academic certificates. Ask about part-time teaching slots."},
+    {"name": "LearnHub Academy", "type": "Training Institute", "distance": "1.8 km", "contact": "+91-9876543223", "strategy": "Call to schedule a demo class. Institutes often trial-hire tutors this way."},
+    {"name": "KidsFirst Preschool", "type": "Preschool", "distance": "2.6 km", "contact": "+91-9876543224", "strategy": "Visit during admission season. Inquire about teaching assistant roles."}
+  ],
+  "sales": [
+    {"name": "MegaMart Retail", "type": "Retail Store", "distance": "1.1 km", "contact": "+91-9876543225", "strategy": "Visit the store and ask to speak with the floor manager about sales positions."},
+    {"name": "TechZone Electronics", "type": "Electronics Store", "distance": "2.3 km", "contact": "+91-9876543226", "strategy": "Call and inquire about weekend sales staff openings. Tech knowledge is a plus."},
+    {"name": "FashionStreet Outlet", "type": "Clothing Store", "distance": "1.6 km", "contact": "+91-9876543227", "strategy": "Walk in during weekdays. Retail stores are more receptive to walk-ins on slower days."}
+  ],
+  "healthcare": [
+    {"name": "CareFirst Clinic", "type": "Medical Clinic", "distance": "1.4 km", "contact": "+91-9876543228", "strategy": "Visit with your nursing/healthcare certificates. Ask about part-time or locum positions."},
+    {"name": "HealthPlus Pharmacy", "type": "Pharmacy", "distance": "0.7 km", "contact": "+91-9876543229", "strategy": "Pharmacies often need counter staff. Visit and ask about morning/evening shift openings."},
+    {"name": "WellCare Diagnostics", "type": "Diagnostic Center", "distance": "2.9 km", "contact": "+91-9876543230", "strategy": "Call first and ask about lab technician or receptionist openings."}
+  ],
+  "default": [
+    {"name": "CityCenter Business Hub", "type": "Co-working Space", "distance": "1.0 km", "contact": "+91-9876543231", "strategy": "Visit and network. Co-working spaces often have bulletin boards with local job postings."},
+    {"name": "Community Employment Office", "type": "Government Service", "distance": "2.0 km", "contact": "+91-9876543232", "strategy": "Register for their job matching program. Bring ID proof and skill certificates."},
+    {"name": "Local Chamber of Commerce", "type": "Business Association", "distance": "3.0 km", "contact": "+91-9876543233", "strategy": "Ask about member businesses that are hiring. They often know who needs help."}
+  ]
+}
