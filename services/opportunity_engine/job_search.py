@@ -5,7 +5,7 @@ from urllib.parse import quote_plus
 logger = logging.getLogger(__name__)
 
 MAX_RESULTS = 3
-SERPAPI_KEY = "cc5c16548358bf7d28e488060dfbeda3210a0ee59dcd4d8473befeefdec4fd85"  # 🔥 Replace with your key
+SERPAPI_KEY = "your api"  # 🔥 Replace with your key
 
 
 # -----------------------------
